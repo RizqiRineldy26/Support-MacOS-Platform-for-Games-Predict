@@ -32,7 +32,7 @@ Library Python yang digunakan :
 7. Scipy
 
 ## URL
-Justifikasi : [Click Here](https://www.howtogeek.com/macos-is-finally-becoming-a-legit-gaming-platform/)
-Dataset URL : [Click Here](https://www.kaggle.com/datasets/artermiloff/steam-games-dataset/data)
-Dataset cloud : [Click Here](https://drive.google.com/drive/folders/19zRFjrooeTkH8zTyfcYQKbrpbiKREI5a?usp=sharing)
-Deployment  : [Click Here](https://rizqirineldy-predict.streamlit.app/)
+- Justifikasi : [Click Here](https://www.howtogeek.com/macos-is-finally-becoming-a-legit-gaming-platform/)
+- Dataset URL : [Click Here](https://www.kaggle.com/datasets/artermiloff/steam-games-dataset/data)
+- Dataset cloud : [Click Here](https://drive.google.com/drive/folders/19zRFjrooeTkH8zTyfcYQKbrpbiKREI5a?usp=sharing)
+- Deployment  : [Click Here](https://rizqirineldy-predict.streamlit.app/)
